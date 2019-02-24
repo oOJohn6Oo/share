@@ -1,6 +1,6 @@
 ﻿## WireGuard —— Windows/Android 客户端简单使用教程(转自[逗比根据地](doub.life))
 
-- Android[官方版](./WireGuard.apk)[TunSafe版](./TunSafe.apk)
+- Android[官方版](https://github.com/oOJohn6Oo/share/raw/master/WireGuard.apk)[TunSafe版](https://github.com/oOJohn6Oo/share/raw/master/TunSafe.apk)
 
 	1. ## 安装
 		可以从google play或者APKPure搜索`wireguard`直接安装或者点击上面的链接下载安装。
